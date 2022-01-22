@@ -1,0 +1,11 @@
+C:\Users\tr\Desktop\Ceviri_Projesi\Ceviri_Projesi\bin\Debug\Ceviri_Projesi.exe.config
+C:\Users\tr\Desktop\Ceviri_Projesi\Ceviri_Projesi\bin\Debug\Ceviri_Projesi.exe
+C:\Users\tr\Desktop\Ceviri_Projesi\Ceviri_Projesi\bin\Debug\Ceviri_Projesi.pdb
+C:\Users\tr\Desktop\Ceviri_Projesi\Ceviri_Projesi\obj\Debug\Ceviri_Projesi.csprojAssemblyReference.cache
+C:\Users\tr\Desktop\Ceviri_Projesi\Ceviri_Projesi\obj\Debug\Ceviri_Projesi.frmceviri.resources
+C:\Users\tr\Desktop\Ceviri_Projesi\Ceviri_Projesi\obj\Debug\Ceviri_Projesi.frmhayvanekle.resources
+C:\Users\tr\Desktop\Ceviri_Projesi\Ceviri_Projesi\obj\Debug\Ceviri_Projesi.Properties.Resources.resources
+C:\Users\tr\Desktop\Ceviri_Projesi\Ceviri_Projesi\obj\Debug\Ceviri_Projesi.csproj.GenerateResource.cache
+C:\Users\tr\Desktop\Ceviri_Projesi\Ceviri_Projesi\obj\Debug\Ceviri_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\tr\Desktop\Ceviri_Projesi\Ceviri_Projesi\obj\Debug\Ceviri_Projesi.exe
+C:\Users\tr\Desktop\Ceviri_Projesi\Ceviri_Projesi\obj\Debug\Ceviri_Projesi.pdb
